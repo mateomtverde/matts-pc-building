@@ -1,9 +1,9 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title:
 ---
-## The index page
+## Intro to PC building
 
-This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
+Welcome to PC building! Your one stop source for information on how to build a personal computer designed specifically to meet your needs.
 
 ## Editing pages
 
