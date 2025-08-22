@@ -1,5 +1,5 @@
 ---
-title:
+title: PC Building
 ---
 ## Intro to PC building
 
