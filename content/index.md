@@ -5,6 +5,16 @@ title: PC Building
 
 Welcome to PC building! Your one stop source for information on how to build a personal computer designed specifically to meet your needs.
 
+## Main Categories
+
+- [[computer-tower/index|Computer Tower Requirements]]
+- [[cpu/index|Central Processing Unit]]
+- [[gpu/index|Graphics Processing Unit]]
+- [[motherboard/index|Central Printed Circuit Board]]
+- [[power-supply/index|Power Supply Unit]]
+- [[ram/index|Random Access Memory]]
+- [[storage/index|Data Storage]]
+
 ## Editing pages
 
 You can edit this index page by opening the `content/index.md` file (found in the `content/` folder) in a Markdown-specific app or any text editor. 
