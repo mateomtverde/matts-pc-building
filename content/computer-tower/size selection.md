@@ -30,7 +30,7 @@ The full tower offers endless options for the PC builder. Multiple [[cooling req
 
 ## Summary
 
-Multiple options are out there as far as PC towers are concerned. My personal recommendation is the mid tower. It offers they ability to configure different cooling solutions, motherboards, and storage options to aquire performance results for the intended use.
+Multiple options are out there as far as PC towers are concerned. My personal recommendation is the mid tower. It offers they ability to configure different cooling solutions, motherboards, and storage options to acquire performance results for the intended use.
 
 
 
