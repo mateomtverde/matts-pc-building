@@ -7,6 +7,8 @@ title: Storage Capability
 * SSD
 * M.2
 
+![[pexels-pixabay-33278.jpg|400]]
+
 ## HDD
 
 Hard Disk Drives(HDD) offer a budget friendly storage option for the PC builder. However, the PC builder should consider the [[size selection]] of the computer tower in order to house the HDD since it is much larger than a SSD or M.2. 
