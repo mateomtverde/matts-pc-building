@@ -1,6 +1,7 @@
 ---
 title: PC Building
 ---
+![[pexels-david-bares-42311-424436.jpg]]
 ## Intro to PC building
 
 Welcome to PC building! Your one stop source for information on how to build a personal computer designed specifically to meet your needs.
