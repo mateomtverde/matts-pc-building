@@ -16,7 +16,7 @@ Air cooling is a great way to cool off your CPU to keep it operating at max perf
 
 ## Liquid Cooling
 
-Liquid cooling is a great option, especially with CPU's that typically run hot. The PC builder will need to research a particular CPU to see the normal operating temperatures to determine the  cooling needs.
+Liquid cooling is a great option, especially with CPU's that typically run hot. The PC builder will need to research a particular CPU to see the normal operating temperatures to determine the cooling needs.
 
 ## Summary
 
