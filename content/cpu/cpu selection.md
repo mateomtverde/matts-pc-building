@@ -4,7 +4,11 @@ title: CPU Selection
 # Main Brands of CPU's
 
 * Intel
+
+![[pexels-zeleboba-5553596.jpg|400]]
 * AMD
+
+![[pexels-zeleboba-5206323.jpg|400]]
 
 ## Core Count
 
