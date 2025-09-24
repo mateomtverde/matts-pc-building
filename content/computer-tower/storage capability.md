@@ -17,7 +17,7 @@ Solid State Drives are another good storage option. They provide a lot of storag
 
 ## M.2
 
-M.2 storage drives are have among the fastest read/write speeds available. If you are into high-level gaming and want the fastest load times this option is really good. They are more expensive than the other options, but if the PC builder can find a good deal online they are definitely worth it.
+M.2 storage drives are have among the fastest read/write speeds available. If you are into high-level gaming and want the fastest load times this option is really good. They are more expensive than the other options, but if the PC builder can find a good deal online they are definitely worth it. However, this storage option is not based on the PC tower(case), but it based on the [[motherboard selection]].
 
 ## Summary
 
