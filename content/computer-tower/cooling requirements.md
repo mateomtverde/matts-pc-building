@@ -4,8 +4,10 @@ title: Cooling Requirements
 # Types of Cooling
 
 * Air Cooling
-![[pexels-anete-lusina-31854241.jpg|400x400]]
+
+![[pexels-anete-lusina-31854241 1.jpg|400x400]]
 * Liquid Cooling
+
 ![[pexels-myleskuo-2399840.jpg|400x400]]
 ## Air Cooling
 
