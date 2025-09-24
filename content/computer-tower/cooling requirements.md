@@ -4,7 +4,9 @@ title: Cooling Requirements
 # Types of Cooling
 
 * Air Cooling
+![[pexels-anete-lusina-31854241.jpg|400x400]]
 * Liquid Cooling
+![[pexels-myleskuo-2399840.jpg|400x400]]
 ## Air Cooling
 
 Air cooling is a popular pick among PC builders. It is cheaper than liquid cooling in most cases and is hassle-free when it comes to maintenance. Many consider it the most reliable and budget friendly way to cool PC components.
