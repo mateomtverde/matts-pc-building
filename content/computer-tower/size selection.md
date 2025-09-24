@@ -8,6 +8,8 @@ title: Size Selection
 * Mid Tower
 * Full Tower
 
+![[pexels-cookiecutter-17489151.jpg]]
+
 ## Small Form Factor
 
 The small form factor tower(case) is a suitable solution for those looking to save space. However, if the intended use is for graphical processing power such as gaming, this may not be a good solution depending on the games that will be played. The [[cooling requirements]] for the internal hardware may also be a problem.
