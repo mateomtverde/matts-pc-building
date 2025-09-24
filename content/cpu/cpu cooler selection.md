@@ -4,7 +4,11 @@ title: CPU Cooler Selection
 # Types of CPU Cooling
 
 * Air Cooling
+
+![[pexels-zeleboba-33384207.jpg|500]]
 * Liquid Cooling
+
+![[pexels-zeleboba-32835341.jpg|500]]
 
 ## Air Cooling
 
