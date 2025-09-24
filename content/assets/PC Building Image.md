@@ -1,1 +1,0 @@
-![[pc building assest photo.webp]]
