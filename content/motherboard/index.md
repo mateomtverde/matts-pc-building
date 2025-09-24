@@ -1,5 +1,5 @@
 ---
-title: Central Printed Circuit Board
+title: Motherboard
 ---
 ## Related Categories
 
