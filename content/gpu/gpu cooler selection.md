@@ -4,6 +4,8 @@ title: GPU Cooler Selection
 # Types of GPU Cooling
 
 * Air Cooling
+
+![[pexels-nanadua11-8622911.jpg|400]]
 * Liquid Cooling
 ## Air Cooling
 
