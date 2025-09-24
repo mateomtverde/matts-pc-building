@@ -6,7 +6,6 @@ title: Storage Capability
 * HDD
 * SSD
 * M.2
-![[storage drives picture.jpeg]]
 
 ## HDD
 

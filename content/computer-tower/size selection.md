@@ -8,7 +8,6 @@ title: Size Selection
 * Mid Tower
 * Full Tower
 
-	![[computer-case-sizes.jpg]]
 ## Small Form Factor
 
 The small form factor tower(case) is a suitable solution for those looking to save space. However, if the intended use is for graphical processing power such as gaming, this may not be a good solution depending on the games that will be played. The [[cooling requirements]] for the internal hardware may also be a problem.
@@ -26,7 +25,7 @@ Mid towers offer the best option for a budget, [[cooling requirements]], perform
 
 ## Full Tower
 
-The full tower offers endless options for the PC builder. Multiple [[cooling requirements]], [[size selection]], and [[motherboard compatibility]] are achieved when selecting the full tower to build a PC. This option is normally something a builder would choose if on a budget. 
+The full tower offers endless options for the PC builder. Multiple [[cooling requirements]], [[size selection]], and [[motherboard compatibility]] are achieved when selecting the full tower to build a PC. This option is normally something a builder would not choose if on a budget. 
 
 ## Summary
 

@@ -12,13 +12,11 @@ Air cooling is a popular pick among PC builders. It is cheaper than liquid cooli
 > Air cooling systems are easier to install than liquid cooling and are therefore the better choice for beginner PC builders. You also won’t need to worry about water potentially leaking into your system!
 > - <https://www.kingston.com/en/blog/gaming/air-vs-liquid-cooling-pc-builds>
 
-![[Air Cooling Image.webp]]
 
 ## Liquid Cooling
 
 Liquid cooling is another option, especially for more experienced PC builders. However, it is usually more expensive and requires and little bit of knowledge and research as far as assembly is concerned. This option requires periodic maintenance as well due to possible leaks and permiation. If assembly is not performed correctly leaks and occur and damage PC components resulting in added replacement cost and time.
-	
-![[Liquid Cooling Image.jpg]]
+
 
 ## Summary
 

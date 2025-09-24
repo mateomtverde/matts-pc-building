@@ -6,7 +6,6 @@ title: User Friendly Towers
 * Cable management
 * Easy installation of components
 * Easy to find parts
-![[pc-cable-management-guide.jpg]]
 ## Cable Management
 
 When building a PC cable management can become a hassle. The PC builder needs to keep this in mind when determining the [[size selection]] of their tower. If choosing to have a smaller case for the PC build the cable management can become a headache trying to fit more components than what the tower(case) was designed for.
