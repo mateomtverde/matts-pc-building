@@ -7,6 +7,8 @@ title: Motherboard Compatibility
 * Micro-ATX
 * ATX
 * E-ATX
+
+![[pexels-cottonbro-4705635.jpg]]
 ## Mini-ITX
 
 Mini-ITX is a good option for those choosing to build their PC in a small form factor tower. The PC builders will have to consider [[cooling requirements]] and [[storage capability]] for the intended use of the PC before selecting this option. Mini-ITX is limited when it comes to graphical performance, due to it utilizing the integrated graphics within the CPU(APU).
