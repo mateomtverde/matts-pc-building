@@ -19,7 +19,7 @@ The small form factor tower(case) is a suitable solution for those looking to sa
 
 ## Mini Tower
 
-Mini towers can offer a step up and still save space. It can a little more cooling and give the option to step up into a mid-level gaming setup. 
+Mini towers can offer a step up and still save space. It can offer a little more cooling and give the option to step up into a mid-level gaming setup. 
 
 ## Mid Tower
 
