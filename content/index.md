@@ -6,7 +6,9 @@ title: PC Building
 
 Welcome to PC building! Your one stop source for information on how to select components used to build a personal computer that will specifically to meet your needs.
 
-The categories listed below are a list of the items needed to build a PC. Start planning by deciding what the PC's intended use will be and utilize the information below to learn about each component:
+The categories listed below are a list of the items needed to build a PC. Start planning by deciding what the PC's intended use will be and utilize the information below to learn about each component.
+
+After reviewing all of the information about the required PC building components below. Navigate to the [[PC Building Guide]] to start building your PC.
 
 ## Main Categories
 

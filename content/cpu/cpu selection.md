@@ -12,11 +12,11 @@ title: CPU Selection
 
 ## Core Count
 
-Part of the selections process when planning to build a computer is to select a CPU with the proper core count for the intended use. For instance, if the PC builder is going to be utilizing CPU intensive tasks then the selection would be a CPU with a higher core count. If the task is gaming then the selection wouldn't be based as much on the cores, it would be based more on the speed of the cores. 
+Part of the selection process when planning to build a computer is to select a CPU with the proper core count for the intended use. For instance, if the PC builder is going to be utilizing CPU intensive tasks then the selection would be a CPU with a higher core count. If the task is gaming then the selection wouldn't be based as much on the cores, it would be based more on the speed of the cores. 
 
 The PC builder also needs to make sure the CPU does not bottleneck the GPU, especially when gaming. A proper CPU will ensure the GPU operates at it's full potential. Max performance of the GPU, especially when playing games competitively, is a must.
 
-Visit [[gpu selection]] to select the proper GPU for your PC build.
+Visit [[gpu selection]] for information on how to select the proper GPU for your PC build.
 
 ## Single Thread vs Multi Thread
 

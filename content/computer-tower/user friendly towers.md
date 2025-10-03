@@ -16,7 +16,7 @@ When building a PC cable management can become a hassle. The PC builder needs to
 
 ## Easy Installation of Components
 
-Multiple companies offer a variety of computer towers that offer fairly easy installation of PC components. Most of these towers(cases) require the use of only a philips screwdriver. PC builders, especially beginners, should research towers(cases) that offer easy installation to make the building process a breeze.
+Multiple companies offer a variety of computer towers that offer fairly easy installation of PC components. Most of these towers(cases) require the use of a philips screwdriver. PC builders, especially beginners, should research towers(cases) that offer easy installation to make the building process a breeze.
 
 ## Easy to Find Parts
 

@@ -1,3 +1,6 @@
 ---
-title: Data Storage
+title: Storage
 ---
+# Categories
+
+* [[Storage Selection]]
