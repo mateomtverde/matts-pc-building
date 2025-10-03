@@ -3,4 +3,4 @@ title: Power Supply Unit
 ---
 # Categories
 
-* [[PSU Selection]]
+* [[psu selection]]

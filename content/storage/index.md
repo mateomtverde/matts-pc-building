@@ -3,4 +3,4 @@ title: Storage
 ---
 # Categories
 
-* [[Storage Selection]]
+* [[storage selection]]

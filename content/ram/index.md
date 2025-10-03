@@ -3,4 +3,4 @@ title: Random Access Memory
 ---
 # Categories
 
-* [[RAM Selection]]
+* [[ram selection]]

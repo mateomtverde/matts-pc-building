@@ -3,5 +3,5 @@ title: Graphics Processing Unit
 ---
 # Categories
 
-* [[GPU Cooler Selection]]
-* [[GPU Selection]]
+* [[gpu cooler selection]]
+* [[gpu selection]]

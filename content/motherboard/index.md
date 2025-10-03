@@ -3,7 +3,7 @@ title: Motherboard
 ---
 # Categories
 
-* [[CPU Compatibility]]
-* [[GPU Compatibility]]
-* [[RAM Compatibility]]
-* [[Motherboard Selection]]
+* [[cpu compatibility]]
+* [[gpu compatibility]]
+* [[ram compatibility]]
+* [[motherboard selection]]
